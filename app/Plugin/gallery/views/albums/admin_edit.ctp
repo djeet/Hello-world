@@ -1,0 +1,16 @@
+<div class="users form">
+    <h2><?php __d('gallery','Edit album'); ?></h2>
+    <?php echo $form->create('Album');?>
+        <fieldset>
+        <?php
+			echo $form->input('id');
+            echo $form->input('title',array('label' => __('Title', true)));
+            echo $form->input('slug');
+			echo $form->input('description',array('label' => __('Description', true)));
+			echo $form->input('type',array('label' => __('Type', true)));
+			echo $form->input('params',array('label' => __('Parameters', true)));
+			echo $form->input('status');
+        ?>
+        </fieldset>
+    <?php echo $form->end('Submit');?>
+</div>

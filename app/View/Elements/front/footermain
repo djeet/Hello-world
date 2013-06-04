@@ -1,0 +1,16 @@
+<div class="clr"></div>
+	<div class="boder_bootem"></div>
+	<div class="footer">
+		<div class="nav_footer">
+			<ul>
+				<li><a href="#">Home</a>|</li>
+				<li><a href="#">About us</a>|</li>
+				<li><a href="#">Products</a>|</li>
+				<li><a href="#">Blog</a>|</li>
+				<li><a href="#">Demo</a>|</li>
+				<li><a href="#">Contact Us</a></li>
+			</ul>
+			<div class="copy_right">copyright 2011. All rights reserved.</div>
+	
+		</div>
+	</div>

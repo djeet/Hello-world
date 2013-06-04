@@ -1,0 +1,60 @@
+[25-Apr-2013 08:22:55] PHP Fatal error:  Cannot redeclare class NodesController in /home/unlimit/public_html/venue50/app/Plugin/Nodes/Controller/NodesController25.php on line 1286
+[26-Apr-2013 04:48:27] PHP Fatal error:  Cannot redeclare class NodesController in /home/unlimit/public_html/venue50/app/Plugin/Nodes/Controller/NodesController1.php on line 1422
+[29-Apr-2013 00:51:13] PHP Parse error:  syntax error, unexpected $end in /home/unlimit/public_html/venue50/app/Plugin/Nodes/View/Nodes/view.ctp on line 387
+[29-Apr-2013 00:55:55] PHP Parse error:  syntax error, unexpected $end in /home/unlimit/public_html/venue50/app/Plugin/Nodes/View/Nodes/view.ctp on line 386
+[30-Apr-2013 00:46:52] PHP Fatal error:  Call to a member function create() on a non-object in /home/unlimit/public_html/venue50/app/Plugin/Nodes/View/Nodes/form.ctp on line 22
+[30-Apr-2013 00:52:00] PHP Fatal error:  Call to a member function create() on a non-object in /home/unlimit/public_html/venue50/app/Plugin/Nodes/View/Nodes/form.ctp on line 22
+[30-Apr-2013 00:52:17] PHP Fatal error:  Call to a member function create() on a non-object in /home/unlimit/public_html/venue50/app/Plugin/Nodes/View/Nodes/form.ctp on line 22
+[01-May-2013 02:40:00] PHP Fatal error:  Call to a member function save() on a non-object in /home/unlimit/public_html/venue50/app/Plugin/Nodes/Controller/NodesController.php on line 1017
+[01-May-2013 03:10:33] PHP Fatal error:  Call to a member function read() on a non-object in /home/unlimit/public_html/venue50/app/Plugin/Nodes/Controller/NodesController.php on line 1018
+[01-May-2013 03:11:53] PHP Fatal error:  Call to a member function read() on a non-object in /home/unlimit/public_html/venue50/app/Plugin/Nodes/Controller/NodesController.php on line 1018
+[01-May-2013 03:11:55] PHP Fatal error:  Call to a member function read() on a non-object in /home/unlimit/public_html/venue50/app/Plugin/Nodes/Controller/NodesController.php on line 1018
+[01-May-2013 07:40:01] PHP Parse error:  syntax error, unexpected $end, expecting ')' in /home/unlimit/public_html/venue50/app/View/Helper/CroogoHelper.php on line 98
+[03-May-2013 06:14:27] PHP Fatal error:  Call to a member function read() on a non-object in /home/unlimit/public_html/venue50/app/Plugin/Nodes/Controller/NodesController.php on line 1060
+[03-May-2013 06:35:30] PHP Parse error:  syntax error, unexpected ';' in /home/unlimit/public_html/venue50/app/Plugin/Nodes/View/Nodes/concierge.ctp on line 8
+[03-May-2013 09:08:50] PHP Fatal error:  Call to a member function save() on a non-object in /home/unlimit/public_html/venue50/app/Plugin/Contacts/Controller/ContactsController.php on line 143
+[03-May-2013 09:36:36] PHP Fatal error:  Call to a member function to() on a non-object in /home/unlimit/public_html/venue50/app/Plugin/Contacts/Controller/ContactsController.php on line 148
+[03-May-2013 09:38:38] PHP Fatal error:  Cannot use string offset as an array in /home/unlimit/public_html/venue50/app/Plugin/Contacts/View/Emails/text/contact.ctp on line 5
+[04-May-2013 00:20:11] PHP Fatal error:  Call to a member function template() on a non-object in /home/unlimit/public_html/venue50/app/Plugin/Contacts/Controller/ContactsController.php on line 146
+[04-May-2013 01:18:39] PHP Fatal error:  Call to a member function to() on a non-object in /home/unlimit/public_html/venue50/app/Plugin/Contacts/Controller/ContactsController.php on line 292
+[04-May-2013 01:35:00] PHP Warning:  unlink(/home/unlimit/public_html/venue50/app/tmp/cache/models/cake_model_default_unlimit_venuemob_types_vocabularies) [<a href='function.unlink'>function.unlink</a>]: No such file or directory in /home/unlimit/public_html/venue50/lib/Cake/Cache/Engine/FileEngine.php on line 254
+[04-May-2013 02:22:48] PHP Parse error:  syntax error, unexpected $end in /home/unlimit/public_html/venue50/app/Plugin/Contacts/View/Contacts/view.ctp on line 290
+[04-May-2013 03:34:54] PHP Fatal error:  Call to undefined function  array_key_exist() in /home/unlimit/public_html/venue50/app/Plugin/Nodes/View/Nodes/view.ctp on line 306
+[04-May-2013 03:34:59] PHP Fatal error:  Call to undefined function  array_key_exist() in /home/unlimit/public_html/venue50/app/Plugin/Nodes/View/Nodes/view.ctp on line 306
+[04-May-2013 03:35:05] PHP Fatal error:  Call to undefined function  array_key_exist() in /home/unlimit/public_html/venue50/app/Plugin/Nodes/View/Nodes/view.ctp on line 306
+[04-May-2013 03:35:32] PHP Fatal error:  Call to undefined function  array_key_exist() in /home/unlimit/public_html/venue50/app/Plugin/Nodes/View/Nodes/view.ctp on line 306
+[04-May-2013 03:35:51] PHP Fatal error:  Call to undefined function  array_key_exist() in /home/unlimit/public_html/venue50/app/Plugin/Nodes/View/Nodes/view.ctp on line 306
+[04-May-2013 03:36:06] PHP Fatal error:  Call to undefined function  array_key_exist() in /home/unlimit/public_html/venue50/app/Plugin/Nodes/View/Nodes/view.ctp on line 306
+[04-May-2013 03:37:01] PHP Fatal error:  Call to undefined function  array_key_exist() in /home/unlimit/public_html/venue50/app/Plugin/Nodes/View/Nodes/view.ctp on line 306
+[04-May-2013 03:37:11] PHP Fatal error:  Call to undefined function  array_key_exist() in /home/unlimit/public_html/venue50/app/Plugin/Nodes/View/Nodes/view.ctp on line 306
+[04-May-2013 04:37:33] PHP Fatal error:  Class 'NodeattachmentAppModel' not found in /home/unlimit/public_html/venue50/app/Plugin/Nodeattachment/Model/Nodeattachment.php on line 9
+[04-May-2013 04:48:09] PHP Fatal error:  Class 'NodeattachmentAppModel' not found in /home/unlimit/public_html/venue50/app/Plugin/Nodeattachment/Model/Nodeattachment.php on line 9
+[04-May-2013 04:48:12] PHP Fatal error:  Class 'NodeattachmentAppModel' not found in /home/unlimit/public_html/venue50/app/Plugin/Nodeattachment/Model/Nodeattachment.php on line 9
+[04-May-2013 04:48:21] PHP Fatal error:  Class 'NodeattachmentAppModel' not found in /home/unlimit/public_html/venue50/app/Plugin/Nodeattachment/Model/Nodeattachment.php on line 9
+[04-May-2013 04:48:43] PHP Fatal error:  Class 'NodeattachmentAppModel' not found in /home/unlimit/public_html/venue50/app/Plugin/Nodeattachment/Model/Nodeattachment.php on line 9
+[04-May-2013 04:48:55] PHP Fatal error:  Class 'NodeattachmentAppModel' not found in /home/unlimit/public_html/venue50/app/Plugin/Nodeattachment/Model/Nodeattachment.php on line 9
+[04-May-2013 06:33:54] PHP Fatal error:  Call to undefined method MetaComponent::query() in /home/unlimit/public_html/venue50/app/Plugin/Nodes/Controller/NodesController.php on line 815
+[04-May-2013 06:33:58] PHP Fatal error:  Call to undefined method MetaComponent::query() in /home/unlimit/public_html/venue50/app/Plugin/Nodes/Controller/NodesController.php on line 815
+[04-May-2013 06:34:00] PHP Fatal error:  Call to undefined method MetaComponent::query() in /home/unlimit/public_html/venue50/app/Plugin/Nodes/Controller/NodesController.php on line 815
+[04-May-2013 06:34:03] PHP Fatal error:  Call to undefined method MetaComponent::query() in /home/unlimit/public_html/venue50/app/Plugin/Nodes/Controller/NodesController.php on line 815
+[04-May-2013 06:34:30] PHP Fatal error:  Call to undefined method MetaComponent::query() in /home/unlimit/public_html/venue50/app/Plugin/Nodes/Controller/NodesController.php on line 815
+[06-May-2013 07:37:19] PHP Fatal error:  Call to a member function to() on a non-object in /home/unlimit/public_html/venue50/app/Plugin/Contacts/Controller/ContactsController.php on line 336
+[07-May-2013 01:25:27] PHP Fatal error:  Cannot use string offset as an array in /home/unlimit/public_html/venue50/app/Plugin/Contacts/Controller/ContactsController.php on line 333
+[07-May-2013 01:40:42] PHP Fatal error:  Call to undefined method ContactsController::_send_email_admin() in /home/unlimit/public_html/venue50/app/Plugin/Contacts/Controller/ContactsController.php on line 241
+[09-May-2013 07:24:58] PHP Parse error:  syntax error, unexpected '}' in /home/unlimit/public_html/venue50/app/Plugin/Contacts/View/Messages/admin_index.ctp on line 112
+[09-May-2013 07:34:08] PHP Fatal error:  Function name must be a string in /home/unlimit/public_html/venue50/app/Plugin/Contacts/View/Messages/admin_index.ctp on line 50
+[09-May-2013 09:26:10] PHP Fatal error:  Call to undefined function  phpdefine() in /home/unlimit/public_html/venue50/app/Config/constants.php on line 1
+[09-May-2013 09:26:10] PHP Fatal error:  Call to undefined function  phpdefine() in /home/unlimit/public_html/venue50/app/Config/constants.php on line 1
+[09-May-2013 09:26:12] PHP Fatal error:  Call to undefined function  phpdefine() in /home/unlimit/public_html/venue50/app/Config/constants.php on line 1
+[10-May-2013 03:23:20] PHP Warning:  unlink(/home/unlimit/public_html/venue50/app/tmp/cache/models/cake_model_default_unlimit_venuemob_settings) [<a href='function.unlink'>function.unlink</a>]: No such file or directory in /home/unlimit/public_html/venue50/lib/Cake/Cache/Engine/FileEngine.php on line 254
+[10-May-2013 09:07:28] PHP Fatal error:  Call to a member function subject() on a non-object in /home/unlimit/public_html/venue50/app/Plugin/Contacts/Controller/ContactsController.php on line 421
+[11-May-2013 01:53:26] PHP Warning:  Unexpected character in input:  ''' (ASCII=39) state=1 in /home/unlimit/public_html/venue50/app/Plugin/Nodes/Controller/NodesController.php on line 468
+[11-May-2013 01:53:26] PHP Parse error:  syntax error, unexpected $end in /home/unlimit/public_html/venue50/app/Plugin/Nodes/Controller/NodesController.php on line 468
+[11-May-2013 06:22:05] PHP Parse error:  syntax error, unexpected $end in /home/unlimit/public_html/venue50/app/Plugin/Nodes/Controller/NodesController.php on line 841
+[11-May-2013 06:23:29] PHP Parse error:  syntax error, unexpected $end, expecting ')' in /home/unlimit/public_html/venue50/app/Plugin/Nodes/Controller/NodesController.php on line 339
+[11-May-2013 06:49:51] PHP Fatal error:  Call to a member function fetchAll() on a non-object in /home/unlimit/public_html/venue50/app/Plugin/Nodes/Controller/NodesController.php on line 1173
+[11-May-2013 06:51:12] PHP Fatal error:  Call to a member function fetchAll() on a non-object in /home/unlimit/public_html/venue50/app/Plugin/Nodes/Controller/NodesController.php on line 1173
+[11-May-2013 06:51:39] PHP Fatal error:  Call to a member function fetchAll() on a non-object in /home/unlimit/public_html/venue50/app/Plugin/Nodes/Controller/NodesController.php on line 1173
+[11-May-2013 08:13:11] PHP Fatal error:  Call to undefined function  print_() in /home/unlimit/public_html/venue50/app/Plugin/Contacts/Controller/ContactsController.php on line 210
+[11-May-2013 08:59:34] PHP Parse error:  syntax error, unexpected $end in /home/unlimit/public_html/venue50/app/Plugin/Contacts/View/Contacts/view.ctp on line 72
+[11-May-2013 09:05:24] PHP Parse error:  syntax error, unexpected $end in /home/unlimit/public_html/venue50/app/Plugin/Contacts/View/Contacts/view.ctp on line 340

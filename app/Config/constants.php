@@ -1,0 +1,1 @@
+<?php define('DOMAIN_NAME', 'http://localhost.com/venue50/') ;?>
